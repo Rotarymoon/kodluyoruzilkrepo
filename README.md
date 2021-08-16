@@ -7,7 +7,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.  İçerisinde bir adet REA
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-`https://github.com/Rotarymoon/kodluyoruzilkrepo.git`
+```https://github.com/Rotarymoon/kodluyoruzilkrepo.git```
 
 ## Usage
 
