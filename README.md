@@ -7,9 +7,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.  İçerisinde bir adet REA
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-| Ürünlerin Numaraları| Ürün Açıklaması| Ürünlerin Fiyatı|
-| :--- | :---: | ---: |
-| 1 | Açıklama | Fiyatı |
+`https://github.com/Rotarymoon/kodluyoruzilkrepo.git`
 
 ## Usage
 
