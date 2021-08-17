@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo.  İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo, Patika GIT Eğitimi kapsamında açtığım ödev 1 reposu.  İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![Kodluyoruz foto](github.png)
 
@@ -18,7 +18,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
 ```
-cd kodluyoruzkirepo
+cd kodluyoruzilkrepo
 code .
 ```
 
