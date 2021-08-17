@@ -8,7 +8,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.  İçerisinde bir adet REA
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
-print("git clone https://github.com/Rotarymoon/kodluyoruzilkrepo.git")
+git clone https://github.com/Rotarymoon/kodluyoruzilkrepo.git
 ```
 
 ## Usage
@@ -18,8 +18,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
 ```
-print("cd kodluyoruzkirepo")
-print("code .")
+cd kodluyoruzkirepo
+code .
 ```
 
 ## Contributing
